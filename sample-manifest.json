@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fd67c685-9727-451d-9633-4ab4c12b4f11",
+  "export_job_id": "a945304f-3dd5-4d76-b16d-6f51d85316ad",
   "id_short": 735160,
-  "published_at": "2026-04-14T20:01:45Z",
+  "published_at": "2026-04-19T07:31:37Z",
   "repo_name": "tech-ready-restaurants-in-montana-us-sample-735160",
   "sample_asset_name": "beamstation_735160_restaurants-us-mt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/735160/beamstation_735160_restaurants-us-mt_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "92fca44e73cce42d1f553826fc87852adc02bfdfc3943f305397c2e71483528a",
-  "sample_size_bytes": 19808,
-  "total_records": 5
+  "sample_sha256": "83370cdcdc4cce04307e20ab0ebafd053b72645cbcbb097d1fa76fd7a3cbedb9",
+  "sample_size_bytes": 19801,
+  "total_records": 4
 }
